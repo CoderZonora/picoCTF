@@ -1,4 +1,6 @@
-Used https://www.codeconvert.ai/assembly-to-c-converter to convert the assembly code into C code. Used   
+Used https://www.codeconvert.ai/assembly-to-c-converter to convert the assembly code into C code.
+Read about the atoi() method and used
+
 ```
 printf("%x\n",atoi("3854998744"));
 printf("%x",atoi("915131509"));
